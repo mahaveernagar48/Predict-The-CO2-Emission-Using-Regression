@@ -20,4 +20,6 @@
 *   **FUEL CONSUMPTION COMB (L/100 km)** e.g. 9.2
 *   **CO2 EMISSIONS (g/km)** e.g. 182
 
+## Steps involved in the whole project
 
+*   **1. EDA Analysis**
