@@ -22,4 +22,10 @@
 
 ## Steps involved in the whole project
 
-*   **1. EDA Analysis**
+1. Exploratory Data Analysis
+2. Feature Selection based on correaltion and heatmap
+3. Train and Test Split of entire data to trained the data. Model is trained and tested on two different data sets which are mutually exclusive in nature.
+4. Simple Linear Regression is used to determine the affect of individual feature on CO2 emission.
+    **Engine Size vs CO2 Emission
+    **Fuel Consumption vs CO2 Emission
+    **Cylinders vs CO2 Emission
