@@ -29,3 +29,6 @@
 **Engine Size vs CO2 Emission**
 **Fuel Consumption vs CO2 Emission**
 **Cylinders vs CO2 Emission**
+5. Multiple Linear Regression is used to determine the affect of all the features together on CO2 emission.
+6. SKLEARN linear_model is used to train, test and predict the outcome.
+7. Model Evaluation Techniques: MAE(Mean Absolute Error), RSS(Residual Sum Sqaures), R Score(Regression Score)
